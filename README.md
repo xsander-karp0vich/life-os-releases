@@ -2,15 +2,17 @@
 
 ## Скачать последнюю версию
 
-[![DOWNLOAD WINDOWS INSTALLER](https://img.shields.io/badge/DOWNLOAD-WINDOWS_INSTALLER-625bdc?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/xsander-karp0vich/life-os-releases/releases/download/v0.1.0-alpha.2/Life-OS-Setup-0.1.0-alpha.2-x64.exe)
+[![СКАЧАТЬ LIFE OS ДЛЯ WINDOWS](https://img.shields.io/badge/СКАЧАТЬ-LIFE_OS_ДЛЯ_WINDOWS-625bdc?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/xsander-karp0vich/life-os-releases/releases/download/v0.1.0-alpha.3/Life-OS-Setup-0.1.0-alpha.3-x64.exe)
 
-**Установщик — рекомендуемый вариант.** Скачайте `.exe`, запустите его и следуйте подсказкам. Следующие версии Life OS сможет устанавливать как обновление текущего приложения, не затрагивая локальные данные.
+**Установщик — рекомендуемый вариант.** Скачайте файл, запустите его и установите Life OS. Следующие версии устанавливаются поверх текущей; страницы, фотографии и остальные локальные данные сохраняются.
 
-[![DOWNLOAD PORTABLE](https://img.shields.io/badge/DOWNLOAD-PORTABLE_VERSION-242226?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/xsander-karp0vich/life-os-releases/releases/download/v0.1.0-alpha.2/Life-OS-Portable-0.1.0-alpha.2-x64.exe)
+[![СКАЧАТЬ PORTABLE](https://img.shields.io/badge/СКАЧАТЬ-PORTABLE_ВЕРСИЮ-242226?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/xsander-karp0vich/life-os-releases/releases/download/v0.1.0-alpha.3/Life-OS-Portable-0.1.0-alpha.3-x64.exe)
 
-**Portable — без установки.** Подходит для запуска с любой папки или внешнего диска.
+**Portable — без установки.** Скачайте и запустите из любой папки или внешнего диска.
 
-### [Открыть все версии и описание релизов →](https://github.com/xsander-karp0vich/life-os-releases/releases)
+### [Открыть описание версии 0.1.0-alpha.3 →](https://github.com/xsander-karp0vich/life-os-releases/releases/tag/v0.1.0-alpha.3)
+
+### [Открыть все версии →](https://github.com/xsander-karp0vich/life-os-releases/releases)
 
 ---
 
@@ -18,10 +20,10 @@ Life OS — локальное desktop-приложение: страницы, �
 
 ### Обновления
 
-Версию `0.1.0-alpha.2` нужно установить вручную один раз. После этого Life OS проверяет обновления в фоне: **Настройки → Обновления → Перезапустить и обновить**. Новая версия устанавливается поверх текущей, локальные данные сохраняются.
+Версию 0.1.0-alpha.3 можно установить поверх предыдущей версии. Life OS проверяет обновления в фоне: **Настройки → Обновления → Перезапустить и обновить**. Удалять старую версию перед обновлением не нужно.
 
 ### Безопасность загрузки
 
-Контрольные суммы SHA-256 опубликованы в файле [`SHA256SUMS.txt`](https://github.com/xsander-karp0vich/life-os-releases/releases/download/v0.1.0-alpha.2/SHA256SUMS.txt) каждого релиза.
+Контрольные суммы SHA-256 опубликованы в файле [SHA256SUMS.txt](https://github.com/xsander-karp0vich/life-os-releases/releases/download/v0.1.0-alpha.3/SHA256SUMS.txt).
 
 Исходный код хранится отдельно в приватном репозитории. Здесь публикуются только готовые Windows-сборки и метаданные обновлений.
