@@ -1,29 +1,46 @@
-# Life OS — скачать для Windows
+<div align="center">
 
-## Скачать последнюю версию
+# Life OS
 
-[![СКАЧАТЬ LIFE OS ДЛЯ WINDOWS](https://img.shields.io/badge/СКАЧАТЬ-LIFE_OS_ДЛЯ_WINDOWS-625bdc?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/xsander-karp0vich/life-os-releases/releases/download/v0.1.0-alpha.3/Life-OS-Setup-0.1.0-alpha.3-x64.exe)
+### Локальное рабочее пространство для Windows
 
-**Установщик — рекомендуемый вариант.** Скачайте файл, запустите его и установите Life OS. Следующие версии устанавливаются поверх текущей; страницы, фотографии и остальные локальные данные сохраняются.
+Страницы, базы данных, файлы и настройки остаются на вашем компьютере.
 
-[![СКАЧАТЬ PORTABLE](https://img.shields.io/badge/СКАЧАТЬ-PORTABLE_ВЕРСИЮ-242226?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/xsander-karp0vich/life-os-releases/releases/download/v0.1.0-alpha.3/Life-OS-Portable-0.1.0-alpha.3-x64.exe)
+[![Скачать Life OS для Windows](https://img.shields.io/badge/СКАЧАТЬ_ДЛЯ_WINDOWS-УСТАНОВЩИК-625BDC?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/xsander-karp0vich/life-os-releases/releases/download/v0.1.0-alpha.3/Life-OS-Setup-0.1.0-alpha.3-x64.exe)
 
-**Portable — без установки.** Скачайте и запустите из любой папки или внешнего диска.
+**Life OS 0.1.0-alpha.3 · Windows x64 · рекомендуемый вариант**
 
-### [Открыть описание версии 0.1.0-alpha.3 →](https://github.com/xsander-karp0vich/life-os-releases/releases/tag/v0.1.0-alpha.3)
+[Скачать Portable-версию](https://github.com/xsander-karp0vich/life-os-releases/releases/download/v0.1.0-alpha.3/Life-OS-Portable-0.1.0-alpha.3-x64.exe) · [Что нового](https://github.com/xsander-karp0vich/life-os-releases/releases/tag/v0.1.0-alpha.3) · [Все версии](https://github.com/xsander-karp0vich/life-os-releases/releases)
 
-### [Открыть все версии →](https://github.com/xsander-karp0vich/life-os-releases/releases)
+</div>
 
----
+## Установка
 
-Life OS — локальное desktop-приложение: страницы, базы, фотографии и настройки хранятся на вашем компьютере.
+1. Нажмите большую кнопку **«Скачать для Windows»**.
+2. Откройте файл `Life-OS-Setup-0.1.0-alpha.3-x64.exe`.
+3. Запустите Life OS после завершения установки.
 
-### Обновления
+> Windows может показать предупреждение SmartScreen, пока сборка не подписана сертификатом.
+> Проверьте имя файла и источник, затем выберите **«Подробнее» → «Выполнить в любом случае»**.
 
-Версию 0.1.0-alpha.3 можно установить поверх предыдущей версии. Life OS проверяет обновления в фоне: **Настройки → Обновления → Перезапустить и обновить**. Удалять старую версию перед обновлением не нужно.
+## Обновление без потери данных
 
-### Безопасность загрузки
+Удалять старую версию не нужно. Новый установщик обновляет текущее приложение, а страницы,
+фотографии, базы и настройки остаются в локальном хранилище Life OS.
 
-Контрольные суммы SHA-256 опубликованы в файле [SHA256SUMS.txt](https://github.com/xsander-karp0vich/life-os-releases/releases/download/v0.1.0-alpha.3/SHA256SUMS.txt).
+Установленная версия также проверяет обновления автоматически:
+**Настройки → Обновления → Перезапустить и обновить**.
 
-Исходный код хранится отдельно в приватном репозитории. Здесь публикуются только готовые Windows-сборки и метаданные обновлений.
+## Portable-версия
+
+[**Скачать Life OS Portable 0.1.0-alpha.3**](https://github.com/xsander-karp0vich/life-os-releases/releases/download/v0.1.0-alpha.3/Life-OS-Portable-0.1.0-alpha.3-x64.exe)
+
+Portable запускается без установки. Автоматическая замена исполняемого файла для неё отключена —
+новую Portable-версию нужно скачивать вручную с этой страницы.
+
+## Проверка файла
+
+Контрольные суммы SHA-256: [SHA256SUMS.txt](https://github.com/xsander-karp0vich/life-os-releases/releases/download/v0.1.0-alpha.3/SHA256SUMS.txt).
+
+Исходный код Life OS хранится в отдельном приватном репозитории. Здесь опубликованы только готовые
+Windows-сборки и безопасные метаданные обновлений.
